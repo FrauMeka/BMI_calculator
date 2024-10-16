@@ -15,5 +15,3 @@ This is a simple BMI Calculator application developed using JavaFX. Users can in
 4. Use "Clear" to reset the input fields.
 5. Use "Exit" to close the application.
 
-## Screenshot
-![BMI Calculator Screenshot](path_to_screenshot.png)
